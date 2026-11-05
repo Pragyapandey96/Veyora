@@ -46,6 +46,10 @@ const Hero = () => {
           </div>
         </div>
       </div>
+
+      <div className='category'>
+        <h2 className=' text-5xl text-center mt-10 text-amber-700 font-bold '>SHOP BY CATEGORY</h2>
+      </div>
     </section>
   );
 }

@@ -18,3 +18,6 @@ nav img{
   display: block;
  
 }
+.category h2{
+  -webkit-text-stroke: 2px black;
+}
